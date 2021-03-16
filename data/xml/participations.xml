@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entities>
+    <participation>
+        <id>3</id>
+        <athleteId>2</athleteId>
+        <competitionId>1</competitionId>
+        <rank>1</rank>
+    </participation>
+    <participation>
+        <id>2</id>
+        <athleteId>2</athleteId>
+        <competitionId>2</competitionId>
+        <rank>3</rank>
+    </participation>
+    <participation>
+        <id>3</id>
+        <athleteId>2</athleteId>
+        <competitionId>1</competitionId>
+        <rank>3</rank>
+    </participation>
+</entities>

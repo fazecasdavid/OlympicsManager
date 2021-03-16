@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entities>
+    <sponsorship>
+        <id>5</id>
+        <competitionId>1</competitionId>
+        <sponsorId>15</sponsorId>
+        <moneyContribution>3000</moneyContribution>
+    </sponsorship>
+    <sponsorship>
+        <id>10</id>
+        <competitionId>1</competitionId>
+        <sponsorId>15</sponsorId>
+        <moneyContribution>250</moneyContribution>
+    </sponsorship>
+</entities>

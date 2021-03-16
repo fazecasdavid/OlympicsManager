@@ -1,0 +1,3 @@
+2|Digi|Romania
+15|Adidas|Germany
+1|Telekom|Romania

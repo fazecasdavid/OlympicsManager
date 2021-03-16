@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entities>
+    <sponsor>
+        <id>3</id>
+        <name>Vodafone</name>
+        <country>Romaina</country>
+    </sponsor>
+    <sponsor>
+        <id>5</id>
+        <name>Digi</name>
+        <country>Romania</country>
+    </sponsor>
+    <sponsor>
+        <id>1</id>
+        <name>Telekom</name>
+        <country>Romania</country>
+    </sponsor>
+    <sponsor>
+        <id>15</id>
+        <name>asdf</name>
+        <country>asdf</country>
+    </sponsor>
+</entities>

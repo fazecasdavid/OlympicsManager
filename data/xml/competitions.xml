@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entities>
+    <competition>
+        <id>2</id>
+        <date>10-10-2021</date>
+        <location>Romania</location>
+        <name>Olimpiada</name>
+        <description>WallStreetBets olympiad.</description>
+    </competition>
+    <competition>
+        <id>1</id>
+        <date>12-12-2020</date>
+        <location>London</location>
+        <name>Strongest Man</name>
+        <description>asdfasdfasdf</description>
+    </competition>
+</entities>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entities>
+    <athletes>
+        <id>1</id>
+        <firstName>Simona</firstName>
+        <lastName>Halep</lastName>
+        <country>Romania</country>
+        <age>29</age>
+    </athletes>
+    <athletes>
+        <id>2</id>
+        <firstName>Serena</firstName>
+        <lastName>Williams</lastName>
+        <country>USA</country>
+        <age>39</age>
+    </athletes>
+    <athletes>
+        <id>3</id>
+        <firstName>Rafael</firstName>
+        <lastName>Nadal</lastName>
+        <country>Spain</country>
+        <age>33</age>
+    </athletes>
+    <athletes>
+        <id>4</id>
+        <firstName>Novak</firstName>
+        <lastName>Djokovic</lastName>
+        <country>Serbia</country>
+        <age>32</age>
+    </athletes>
+</entities>

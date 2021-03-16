@@ -1,0 +1,4 @@
+2|Serena|Williams|USA|39
+3|Rafael|Nadal|Spain|33
+1|Simona|Halep|Romania|29
+4|Novak|Djokovic|Serbia|32
